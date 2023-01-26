@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - develop
+      - ultra-nightly
 
 jobs:
   build:
